@@ -1,0 +1,16 @@
+body {
+  background-color: lightcoral;
+}
+body h1 {
+  text-align: center;
+  color: lightcoral;
+  background-color: lightcyan;
+}
+body p {
+  color: lightcoral;
+  background-color: lightcyan;
+}
+body button {
+  color: lightcoral;
+  background-color: lightgreen;
+}
